@@ -1,0 +1,7 @@
+name: PaymentAndMoney
+version: '1.0-SNAPSHOT'
+main: me.wadamka.paymentandmoney.PaymentAndMoney
+api-version: 1.19
+commands:
+  pay:
+    description: pay an amount to an user

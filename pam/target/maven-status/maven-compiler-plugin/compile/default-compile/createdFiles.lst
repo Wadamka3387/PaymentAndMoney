@@ -1,0 +1,4 @@
+me\wadamka\paymentandmoney\PaymentAndMoney.class
+me\wadamka\paymentandmoney\listeners\PlayerDeath.class
+me\wadamka\paymentandmoney\storage\DeathKillAndBalance.class
+me\wadamka\paymentandmoney\commands\payment.class
